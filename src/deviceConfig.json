@@ -1,0 +1,23 @@
+[{
+    "os": "iOS",
+    "devices": [{
+        "name": "iPhone XS",
+        "versions": [
+            "13"
+        ]
+    },
+    {
+        "name": "iPhone XS Max",
+        "versions": [
+            "12"
+        ]
+    }]
+},{
+    "os": "android",
+    "devices": [{
+        "name": "Samsung Galaxy 10e",
+        "versions": [
+            "9.0"
+        ]
+    }]
+}]
